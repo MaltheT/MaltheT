@@ -1,6 +1,6 @@
-# Hi there, I'm Malthe 👋
+# Hi I'm Malthe 
 
-Welcome to my GitHub profile! I'm a Computer Engineer with a passion for building innovative solutions and learning new technologies.
+Welcome to my GitHub profile. I'm a Computer Engineer with a passion for building innovative solutions and learning new technologies.
 
 ## About Me
 
